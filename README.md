@@ -1,4 +1,5 @@
 Calculadora de Dividendos
+
 Uma aplicação web simples e intuitiva desenvolvida para auxiliar investidores no acompanhamento de dividendos recebidos de seus ativos financeiros. A ferramenta permite ao usuário registrar múltiplos ativos e, ao final, gerar um relatório consolidado com o total de proventos recebidos em um determinado mês.
 
 🚀 Funcionalidades Principais
